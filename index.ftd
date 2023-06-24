@@ -120,7 +120,6 @@ role: $inherited.types.copy-regular
 
 
 -- ftd.background-image bg-image:
-src: $assets.files.assets.unsplash.jpg
-repeat: no-repeat
+src: $assets.files.assets.Kartikey.jpeg
 position: center
 size: cover
